@@ -1,0 +1,25 @@
+{
+  "teammembers": 
+    [
+    {"id":172803065,"name":"Orçun ÖZDİL ","description":"Öğrenci"},
+    {"id":162803058,"name":"Ergen ALTIPARMAK","description":"Öğrenci"},
+    {"id":162802059,"name":"Mehmet GÜNER","description":"Öğrenci"},
+    {"id":162802061,"name":"Ali Emre DEĞİRMENCİ ","description":"Öğrenci"}
+  ],
+  "projectDescription":[
+    {"id":1,"content":"YZM 4213 Profesyonel Yazılım Mühendisliği Uygulamaları"},
+    {"id":2,"content":"CodeBlocks Takımı tarafından geliştirlmiştir."},
+    {"id":3,"content":"Arş. Gör. Dr. Mansur Alp TOÇOĞLU danışmanlığında."},
+    {"id":4,"content":"Angular JS kullanılmıştır."}
+  ],
+  "sliders":[
+    {"id":1,"imgSrc":"./assets/images/restaurant_1.jpg","title":"İZMİR-35","content":"Artık Şehirler Daha Akıllı!","active":"item active"},
+    {"id":2,"imgSrc":"./assets/images/restaurant_2.jpg","title":"ANKARA","content":"Artık Şehirler Daha Akıllı!","active":"item"},
+    {"id":3,"imgSrc":"./assets/images/restaurant_3.jpg","title":"İSTANBUL","content":"Artık Şehirler Daha Akıllı!","active":"item"}
+    
+  ]
+    
+   
+  
+
+}
